@@ -20,3 +20,4 @@ $ catkin_make
 $ roslaunch mypkg mypkg.launch  
 ```  
 ## **ライセンス**  
+- [BSD 3-Clause "New" or "Revised" License](https://github.com/kazukishirasu/mypkg/blob/master/COPYING)  
