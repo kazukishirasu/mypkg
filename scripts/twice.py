@@ -22,7 +22,6 @@ rate = rospy.Rate(10)
 
 a = random.randint(31,3100)
 ans = (n + a) % 31
-print(ans)
 while 1:
     while 1:
         x = int(input("0～30までの数字を入力してね:"))
