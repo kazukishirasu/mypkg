@@ -7,3 +7,16 @@
 ## **環境**  
 - Ubuntu 20.04 LTS  
 ***
+## **インストール方法**  
+- 以下のコマンドを上から順に実行する。  
+```  
+$ cd catkin_ws/src  
+$ git clone https://github.com/kazukishirasu/mypkg.git  
+$ cd ..
+$ catkin_make  
+```  
+## **実行方法**  
+```  
+$ roslaunch mypkg mypkg.launch  
+```  
+## **ライセンス**  
